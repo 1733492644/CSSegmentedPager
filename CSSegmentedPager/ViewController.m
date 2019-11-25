@@ -19,7 +19,8 @@
     [super viewDidLoad];
     
     self.navigationController.navigationBar.translucent = NO;
-    
+    ///
+    //
     CSSegnebtedPager *segnebtedPager = [[CSSegnebtedPager alloc]initWithTitles:@[@"新闻",@"动态",@"动漫",@"电视剧",@"小说",@"朋友圈",@"资讯",@"电影",@"军事",@"朋友"]];
     segnebtedPager.frame = CGRectMake(0, 0, self.view.frame.size.width, 40);
     [self.view addSubview:segnebtedPager];
