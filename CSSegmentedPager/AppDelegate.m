@@ -27,7 +27,7 @@
     // Use this method to pause ongoing tasks, disable timers, and throttle down OpenGL ES frame rates. Games should use this method to pause the game.
     
     
-    //古灵精怪
+    //古灵精怪333
 }
 
 - (void)applicationDidEnterBackground:(UIApplication *)application {
